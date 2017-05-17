@@ -1,0 +1,10 @@
+F:\Projects\TheOnLineShop\TheOnLineShop\bin\Debug\TheOnLineShop.exe
+F:\Projects\TheOnLineShop\TheOnLineShop\bin\Debug\TheOnLineShop.pdb
+F:\Projects\TheOnLineShop\TheOnLineShop\obj\Debug\TheOnLineShop.csprojResolveAssemblyReference.cache
+F:\Projects\TheOnLineShop\TheOnLineShop\obj\Debug\TheOnLineShop.Form1.resources
+F:\Projects\TheOnLineShop\TheOnLineShop\obj\Debug\TheOnLineShop.LoginForm.resources
+F:\Projects\TheOnLineShop\TheOnLineShop\obj\Debug\TheOnLineShop.Properties.Resources.resources
+F:\Projects\TheOnLineShop\TheOnLineShop\obj\Debug\TheOnLineShop.RegisterForm.resources
+F:\Projects\TheOnLineShop\TheOnLineShop\obj\Debug\TheOnLineShop.csproj.GenerateResource.Cache
+F:\Projects\TheOnLineShop\TheOnLineShop\obj\Debug\TheOnLineShop.exe
+F:\Projects\TheOnLineShop\TheOnLineShop\obj\Debug\TheOnLineShop.pdb
