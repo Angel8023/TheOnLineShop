@@ -65,6 +65,7 @@
             this.button1.TabIndex = 22;
             this.button1.Text = "提交";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // passwordplus
             // 
@@ -136,7 +137,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(315, 355);
+            this.ClientSize = new System.Drawing.Size(315, 344);
             this.Controls.Add(this.mibaobox);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.button1);
